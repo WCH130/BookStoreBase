@@ -1,11 +1,12 @@
 table 50100 "BSB Book"
 {
+    // Doku
     Caption = 'Book';
     DataClassification = ToBeClassified;
 
     fields
     {
-        // Doku
+
         field(1; "No."; Code[20])
         {
             Caption = 'No.';
