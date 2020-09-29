@@ -5,6 +5,7 @@ table 50100 "BSB Book"
 
     fields
     {
+        // Doku
         field(1; "No."; Code[20])
         {
             Caption = 'No.';
