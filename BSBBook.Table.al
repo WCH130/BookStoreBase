@@ -1,6 +1,6 @@
 table 50100 "BSB Book"
 {
-    // Doku
+    // Doku2
     Caption = 'Book';
     DataClassification = ToBeClassified;
 
